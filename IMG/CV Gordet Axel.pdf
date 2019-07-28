@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="CV%20Gordet%20Axel_fichiers/bootstrap.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="CV%20Gordet%20Axel_fichiers/style.css">
+  <script src="CV%20Gordet%20Axel_fichiers/f2f7800810.js"></script><link rel="stylesheet" href="CV%20Gordet%20Axel_fichiers/free.css" media="all"><link rel="stylesheet" href="CV%20Gordet%20Axel_fichiers/free-v4-shims.css" media="all">
+  <title>CV Gordet Axel</title>
+</head>
+
+<body>
+
+  <!--NAVBAR avec redirection vers les parties-->
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#"><i class="far fa-address-card" aria-hidden="true"></i> Mon CV</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="#info"><i class="far fa-address-book" aria-hidden="true"></i> Infos générales</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#skill"><i class="fas fa-keyboard" aria-hidden="true"></i> Compétences</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#exp"><i class="fas fa-book" aria-hidden="true"></i> Expériences</a>
+        </li><li class="nav-item">
+          <a class="nav-link" href="#proj"><i class="fas fa-project-diagram" aria-hidden="true"></i> Projets</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#loisir"><i class="fas fa-guitar" aria-hidden="true"></i> Loisirs</a>
+        </li>
+
+      </ul>
+    </div>
+  </nav>
+  
+
+  <div class="scroll">
+
+    <a href="tel:+33688401046"> <img src="CV%20Gordet%20Axel_fichiers/tel.png" class="img_contact" alt="contact"></a>
+    <a href="mailto:axel.gordet.pop@gmail.com"><img src="CV%20Gordet%20Axel_fichiers/mail.png" class="img_contact" alt="contact"></a>
+    <a href="https://www.linkedin.com/in/axel-gordet-29bb29189/"><img src="CV%20Gordet%20Axel_fichiers/link.png" class="img_contact" alt="contact"></a>
+
+  </div>
+
+
+
+
+  <!--Banniere avec NOM + redirection direct vers les infos générales sur moi-->
+  <div class="banner">
+    <img src="CV%20Gordet%20Axel_fichiers/banner2.jpg" class="img-fluid" alt="Responsive image">
+    <div class="name_cv">
+        <a class="nav-link" href="#info"><h1>Axel Gordet</h1></a><br>
+      <p class="sous_cv">Aspirant Web Developper</p>
+    </div>
+
+  </div>
+
+  <!--Bar Infos générales-->
+
+  <div class="info_bar">
+    <p class="info_bar--text"> <a id="info"><i class="far fa-address-book" aria-hidden="true"></i> Infos générales</a></p>
+  </div>
+
+
+  <!-- BLock des infos générales-->
+
+  <div class="container_info">
+
+    <div class="container_info--picture">
+      <img src="CV%20Gordet%20Axel_fichiers/IMG_1492.jpg" class="picture_me" alt="photo_cv">
+
+    </div>
+
+    <div class="container_info--CV">
+      <h2>Infos :</h2>
+      <p>Nom: Gordet</p>
+      <p>Prénom: Axel</p>
+      <p>Age: 23 ans</p>
+      <p>Hénin-beaumont Haut-de-France</p>
+
+
+
+    </div>
+
+    <div class="container_info--pre">
+      <h2>Me contacter :</h2>
+      <p><i class="fas fa-phone-square" aria-hidden="true"></i> <a href="tel:+33688401046" class="cont">06.88.40.10.46</a></p>
+      <p><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:axel.gordet.pop@gmail.com" class="cont">axel.gordet.pop@gmail.com</a></p>
+      <p><i class="fab fa-linkedin" aria-hidden="true"></i> <a href="https://www.linkedin.com/in/axel-gordet-29bb29189/" class=" cont">LinkedIn</a></p>
+      <p><i class="fab fa-github-square" aria-hidden="true"></i> <a href="https://github.com/Shreko62" class="cont">Github</a></p>
+      <p><i class="fas fa-file-download" aria-hidden="true"></i> Cv Format PDF</p>
+
+    </div>
+
+  </div>
+
+  <!--Bar Competences-->
+
+  <div class="info_bar">
+    <p class="info_bar--text"> <a id="skill"><i class="fas fa-keyboard" aria-hidden="true"></i> Compétences</a></p>
+  </div>
+
+
+  <!-- BLock des compétences-->
+
+  <div class="container_info">
+
+    <div class="container_info--picture">
+      <img src="CV%20Gordet%20Axel_fichiers/skill2.jpg" class="picture_me" alt="skill">
+
+    </div>
+
+    <div class="container_info--CV">
+      <h2>Skills :</h2>
+      <div class="logo_block">
+        <img src="CV%20Gordet%20Axel_fichiers/html_logo.png" class="logo_skill" alt="logo">
+        <img src="CV%20Gordet%20Axel_fichiers/css_logo.png" class="logo_skill" alt="logo">
+        <img src="CV%20Gordet%20Axel_fichiers/sass_logo.png" class="logo_skill" alt="logo">
+        <img src="CV%20Gordet%20Axel_fichiers/c_logo.png" class="logo_skill" alt="logo">
+        <img src="CV%20Gordet%20Axel_fichiers/git_logo.png" class="logo_skill" alt="logo">
+        <img src="CV%20Gordet%20Axel_fichiers/bootstrap_logo.png" class="logo_skill" alt="logo">
+        <img src="CV%20Gordet%20Axel_fichiers/js_logo.png" class="logo_skill" alt="logo">
+        <img src="CV%20Gordet%20Axel_fichiers/wordpress_logo.png" class="logo_skill" alt="logo">
+      </div>
+
+    </div>
+
+    <div class="container_info--pre">
+      <h2>Langues : </h2>
+      <div class="flag">
+        <p><img src="CV%20Gordet%20Axel_fichiers/german.png" class="logo_flag" alt="logo"></p><br>
+        <p><img src="CV%20Gordet%20Axel_fichiers/english.png" class="logo_flag" alt="logo">
+      </p></div>
+
+
+
+    </div>
+
+  </div>
+
+
+  <!--Bar Infos Expériences-->
+
+  <div class="info_bar">
+    <p class="info_bar--text"> <a id="exp"><i class="fas fa-book" aria-hidden="true"></i> Expériences </a></p>
+  </div>
+
+
+  <!-- BLock des exp et forma-->
+
+  <div class="container_info">
+
+    <div class="container_info--picture">
+      <img src="CV%20Gordet%20Axel_fichiers/exp2.jpg" class="picture_me" alt="exp">
+
+    </div>
+
+    <div class="container_info--CV">
+      <h2>Diplômes :</h2>
+      <p>2016: BTS Etudes et Economie de la construction</p>
+      <p>2016: Titre Pro : Préparateur de commandes</p>
+      <p>2014: BAC: E.S</p>
+
+    </div>
+
+    <div class="container_info--pre">
+      <h2>Expériences :</h2>
+      <p>2016 - 2018 : Préparateur de commandes pour "Boulanger"</p>
+      <p>2015 (1 mois): Stage mettreur en bureau d'étude "MC Etude et conception"</p>
+
+    </div>
+
+  </div>
+
+  <!--Bar Infos project-->
+
+  <div class="info_bar">
+    <p class="info_bar--text"> <a id="proj"><i class="fas fa-project-diagram" aria-hidden="true"></i> Projets</a></p>
+  </div>
+
+
+  <!-- BLock du proj et descrip-->
+
+  <div class="container_info">
+
+    <div class="container_info--picture">
+      <img src="CV%20Gordet%20Axel_fichiers/project.jpg" class="picture_me" alt="proj">
+
+    </div>
+
+    <div class="container_info--CV">
+      <h2>Projets réalisés:</h2>
+      <a href="http://axel-gordet.fr/projet_perso_2/" target="_blank"><img src="CV%20Gordet%20Axel_fichiers/1erproj.png" class="project1" alt="proj"></a>
+
+    </div>
+
+    <div class="container_info--pre">
+      <h2>Description :</h2>
+      <p>J'ai développé ce site dans le cadre de notre premier projet perso lors de ma formation chez Popschool.</p>
+      <p>Le but était de créer un site présentant un carpodrome: les horaires d'ouverture , le réglement , l'emplacement
+        , etc..</p>
+
+
+    </div>
+
+  </div>
+
+
+
+
+  <!--Bar Infos Loisirs et passion-->
+
+  <div class="info_bar">
+    <p class="info_bar--text"><a id="loisir"><i class="fas fa-guitar" aria-hidden="true"></i> Loisirs</a></p>
+  </div>
+
+  <!-- BLock loisirs et passions-->
+
+  <div class="container_info">
+
+    <div class="container_info--picture">
+      <img src="CV%20Gordet%20Axel_fichiers/guitare2.jpg" class="picture_me" alt="guitare">
+
+    </div>
+
+    <div class="container_info--CV">
+      <h2>À propos :</h2>
+      <p>Passioné de musique et de films, je passe mon temp à écouter ou jouer de la guitare quand je ne m'entraine
+        pas a développer.</p>
+
+
+
+    </div>
+
+    <div class="container_info--pre">
+
+      <p>Je joue également aux jeux vidéos, par exemple à World of warcraft ou skyrim.</p>
+      <p>Mes films préférés restent Totoro, Terminator 2, Predator, Les 7 samuraïs et tous les Harry potter.</p>
+      <p>PS : Je suis un énorme fan de Borderlands et de H.P Lovecraft.</p>
+
+    </div>
+
+  </div>
+
+
+
+  <!--Bar Infos Footer-->
+
+  <div class="info_bar">
+    <p class="info_bar--text">Créé par Gordet Axel : 2019</p>
+  </div>
+
+
+
+
+
+
+
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="CV%20Gordet%20Axel_fichiers/jquery-3.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+  </script>
+  <script src="CV%20Gordet%20Axel_fichiers/popper.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+  </script>
+  <script src="CV%20Gordet%20Axel_fichiers/bootstrap.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+  </script>
+
+
+
+
+
+</body></html>
