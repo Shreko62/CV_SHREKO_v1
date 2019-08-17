@@ -7,6 +7,8 @@
   src: url("../typo/afta-sans/AftaSansThin-Regular.otf");
   font-family: "policehead";
   src: url("../typo/Chantelli-Antiqua/Chantelli_Antiqua.ttf");
+  font-family:"shrek";
+  src: url("../typo/shrek_[allfont.net].ttf");
   font-weight: bold;
 }
 
@@ -23,8 +25,8 @@
 
 
 .cont {
-  color: black;
-  text-shadow: 2px 2px white;
+  color:  white;
+  text-shadow: 2px 2px  #055413;
 
 }
 
@@ -86,25 +88,27 @@
   font-size: 1.25rem;
   height: 10vh;
   width: auto;
-  background-color: #322f2e;
+  background-color: #055413;
   color: white;
   font-family: policetitle;
   text-shadow: 4px 4px  #322f2e;
 }
 
 h1 {
-  font-family: policehead;
+  font-family: shrek;
   text-shadow: 2px 2px white;
   animation: fadein 5s;
-  color:  #322f2e;
+  color: #055413;
+  font-size: 1.8rem;
+  
 
 
 }
 
 
 h1:hover {
-  color: white;
-  text-shadow: 4px 4px  #322f2e;
+  color: #5b2705;
+  text-shadow: 4px 4px  white;
   
 
 }
@@ -119,9 +123,10 @@ h2 {
 .sous_cv {
   font-family: policehead;
   text-shadow: 1px 1px white;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   animation: fadein 3s;
   text-align: center;
+  color: #5b2705;
 
 }
 
@@ -129,12 +134,13 @@ h2 {
 .container_info {
   width: auto;
   height: 100vh;
-  background-image: linear-gradient(to bottom right, grey, white);
+  background-image: linear-gradient(to bottom right, #5b2705, #b56f41);
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
   font-family: policetexte;
+  color: white;
 
 }
 
@@ -271,7 +277,7 @@ h2 {
   h1 {
     font-size: 5rem;
     text-shadow: 4px 4px white;
-    color:  #322f2e;
+    color:  #055413;
 
 
   }
@@ -284,6 +290,7 @@ h2 {
   .sous_cv {
     font-size: 3.5rem;
     text-shadow: 2px 2px white;
+    color: #5b2705;
   }
 
   .info_bar {
@@ -293,7 +300,7 @@ h2 {
     font-size: 2rem;
     height: 10vh;
     width: auto;
-    background-color: #322f2e;
+    background-color: #055413;
     color: white;
   }
 
@@ -301,9 +308,10 @@ h2 {
   .container_info {
     width: auto;
     height: 50vh;
-    background-image: linear-gradient(to bottom right, grey, white);
+    background-image: linear-gradient(to bottom right, #5b2705, #b56f41);
     display: flex;
     flex-direction: row;
+    color: white;
 
   }
 
